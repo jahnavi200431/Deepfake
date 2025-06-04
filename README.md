@@ -2,7 +2,7 @@ DEEPFAKE DETECTION
 This project is a deep learning-based deepfake detection system that identifies AI-generated manipulations in videos or images. The model outputs a **confidence score** indicating the probability that the media is real or fake, enabling transparent decision-making.
 
 🧠 **Features**:
-- Deepfake classification using a trained neural network
+- Deepfake classification using a trained model
 - Confidence score output (0–100%)
 - Intuitive web dashboard for media upload and analysis
 - Real-time detection results with frame-level analysis
